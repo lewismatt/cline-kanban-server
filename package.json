@@ -1,0 +1,9 @@
+{
+  "name": "cline-kanban-server",
+  "version": "0.1.0",
+  "description": "Kanban board API server built with Node.js, TypeScript, and Express",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "echo 'Missing implementation' && exit 1"
+  }
+}
